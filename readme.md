@@ -34,4 +34,4 @@ Tecnologias Utilizadas
 HTML5
 CSS3
 Autor
-Este site foi desenvolvido por Seu Nome.
+Este site foi desenvolvido por Aline Melo.
